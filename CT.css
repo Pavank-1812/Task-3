@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.div0{
+    padding-top: 6vh;
+    padding-left: 15vh;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+#head1{
+    color: #b42b5c;
+    font-size: 2.3rem;
+    font-weight: 600;
+    font-style: normal;
+    line-height: normal;
+}
+#head2{
+    color: #2b62b4;
+    font-size: 1.9rem;
+    font-weight: 600;
+    font-style: normal;
+    line-height: normal;
+}
+#para1{
+    color: #ACACAC;
+    font-size: 1.4rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 163.687%;
+    letter-spacing: 0.39px;
+}
+.foot-panel{
+    display: flex;
+    justify-content: space-between;
+    height: 50vh;
+    width: auto;
+}
+.div1{
+    height: 60vh;
+    width: 110vh;
+    padding-top: 12vh;
+    padding-left: 20vh;
+    background-color: #b42b5c;
+}
+.div2{
+    height: 60vh;
+    width: 110vh;
+    padding-top: 12vh;
+    padding-left: 20vh;
+    background-color: #be4973;
+}
+#head3{
+    color: #ffdce8;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 5vh;
+}
+.para{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2.3vh;
+}
+.month{
+    padding-right: 360px;
+}
+#para2{
+    color: #fff;
+    font-size: 2.5rem;
+    font-weight: 600;
+    font-style: normal;
+    line-height: normal;
+}
+#para3{
+    color: #ffbbd3;
+    font-size: 1.1rem;
+}
+#head4{
+    color: #ffdce8;
+    font-size: 1.5rem;
+    margin-bottom: 5vh;
+}
+#btn{
+    height: 6vh;
+    width: 40vh;
+    background-color: #4576bd;
+    border: none;
+    box-shadow: 0px 21px 47px 0px rgba(0,0,0,0.35);
+    cursor: pointer;
+}
+#head5{
+    color: #ffdce8;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 5vh;
+}
+
+ul li a{
+    color: #ffbbd3;
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-style: normal;
+    line-height: normal;
+    font-weight: 500;
+    letter-spacing: 0.66px;
+}
+a:hover{
+    text-decoration: 2px solid underline;
+}
